@@ -16,7 +16,6 @@ function App() {
       <Note />
       <Note />
       <Note />
-      <Note />
     </div>
   );
 }
